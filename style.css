@@ -1,0 +1,200 @@
+@font-face{
+	font-family: text;
+	src: url(Ramona-Bold.ttf);
+}
+.bigbox{
+	background:url(30.jpg);
+	text-align: center;
+}
+.header{
+	height: 300px;
+	width: 1500px;
+	background: url(jpg.8.png);
+	padding-top: 200px;
+	color: black;
+	font-size: 50px;
+}
+.mx-auto{
+	margin-left: auto;
+	margin-right: auto;
+}
+.wh-box{
+	height: 400px;
+	width: 1500px;
+	margin-top: 100px;
+	padding-top: 100px;
+}
+.skin-box{
+	height: 500px;
+	width: 1300px;
+	margin-top: 350px;
+	padding-top: 100px;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+.agent-box{
+	height: 600px;
+	width: 1300px;
+	margin-top: 100px;
+	padding-top: 100px;
+	padding-left: 150px;
+	padding-right: 150px;
+	font-family: text;
+}
+.donk{
+	height: 300px;
+	width: 300px;
+	margin-left: 100px;
+	font-family: text;
+	
+}
+.dp-fl{
+	display: flex;
+}
+.skin{
+	height: 500px;
+	width: 300px;
+	margin-left: 100px;
+}
+.kid-skin{
+	height: 300px;
+	width: 300px;
+}
+.btn-skin{
+	height: 50px;
+	width: 300px;
+	background: grey;
+	transition: 2s;
+	font-family: text;
+}
+.btn-skin:hover{
+	height: 100px;
+	width: 300px;
+}
+.agent{
+	height: 500px;
+	width: 300px;
+	margin-left: 100px;
+}
+.kid-agent{
+	height: 300px;
+	width: 300px;
+	font-family: text;
+}
+.btn-agent{
+	height: 50px;
+	width: 300px;
+	transition: 2s;
+	font-family: text;
+}
+.btn-agent:hover{
+	height: 100px;
+	width: 300px;
+}
+.kid-img{
+	height: 300px;
+	width: 300px;
+	transition: 2s;
+}
+.kid-img:hover{
+	height: 350px;
+	width: 350px;
+}
+.kid-pro{
+	height: 400px;
+	width: 300px;
+	transition: 2s;
+	font-family: text;
+}
+.box-anticheat{
+	height: 400px;
+	width: 1500px;
+	margin-top: 100px;
+	padding-top: 100px;
+}
+.big-img{
+	height: 300px;
+	width: 500px;
+	transition: 2s;
+}
+.vac-text{
+	width: 500px;
+	margin-left: 300px;
+	color: red;;
+	transition: 2s;
+	font-size: 20px;
+	font-family: text;
+	color: red;
+}
+.big-img:hover{
+	height: 400px;
+	width: 600px;
+}
+.kid-pro:hover{
+	height: 500px;
+	width: 400px;
+}
+.maps{
+	height: 500px;
+	width: 1100px;
+	margin-left: 100px;
+}
+.maps-img{
+	height: 400px;
+	width: 400px;
+	transition: 2s;
+}
+.kid-maps{
+	height: 400px;
+	width: 500px;
+	transition: 1s;
+}
+.ml-100{
+	margin-left: 200px;
+}
+.kid-maps:hover{
+	height: 400px;
+	width: 400px;
+}
+.fn-sz50pr{
+	font-size: 50px;
+	font-family: text;
+	color: blue;
+
+}
+.fn-sz30pr{
+	font-size: 30px;
+	font-family: text;
+	color: blue;
+
+}
+.fn-sz50sp{
+	font-size: 50px;
+	font-family: text;
+	color: yellow;
+}
+.fn-sz30sp{
+	font-size: 30px;
+	font-family: text;
+	color: yellow;
+}
+.fn-sz50mn{
+	font-size: 50px;
+	font-family: text;
+	color: white;
+}
+.fn-sz30mn{
+	font-size: 30px;
+	font-family: text;
+	color: white;
+}
+.fn-sz70cs{
+	font-size: 70px;
+	font-family: text;
+	color: black;
+}
+.fn-szvil{
+	font-size: 30px;
+	font-family: text;
+	color: violet;
+}
